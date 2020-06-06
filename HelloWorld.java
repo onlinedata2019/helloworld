@@ -35,5 +35,8 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
+    System.out.println("its firtst jenkin");
+    System.out.println("auto git");
+
   }
 }
