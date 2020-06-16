@@ -39,6 +39,6 @@ public class HelloWorld {
     System.out.println("auto git");
     System.out.println("new line1");
     System.out.println("new line2");
-
+    System.out.println("newline3");
   }
 }
