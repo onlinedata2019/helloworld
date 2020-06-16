@@ -37,8 +37,8 @@ public class HelloWorld {
     System.out.println("Hello, World");
     System.out.println("its firtst jenkin");
     System.out.println("auto git");
-    system.out.println("new line1");
-    system.out.println("new line2");
+    System.out.println("new line1");
+    System.out.println("new line2");
 
   }
 }
